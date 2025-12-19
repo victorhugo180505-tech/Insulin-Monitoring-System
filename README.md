@@ -1,4 +1,4 @@
-# FinalProject-IoT
+# FinalProject-InternetOfThings
 
 > ⚠️ **Warning:** This process may disable XAMPP (the software previously used to run MySQL). However, a similar setup can be achieved using MySQL Workbench.
 >
